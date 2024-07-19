@@ -1,0 +1,25 @@
+@import url("Enigme.css");
+
+/* #black_panther{
+
+    display: flex;
+
+} */
+
+#black_panther{
+    background-image: url('Illustrations + Logo/Accueil/Pantherhome1..png');
+    height:500px;
+   background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#contact{
+
+    background-image: url('Illustrations + Logo/Accueil/Pantherhome7.png');
+    height:800px;
+   background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
